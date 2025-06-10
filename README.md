@@ -1,2 +1,3 @@
 # asdf
-first tim trying github
+first tim trying git and github during roject
+# hello world
